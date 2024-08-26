@@ -1,7 +1,4 @@
-
----
-
-### 2. **Automated Network Health Monitoring System**
+# **Automated Network Health Monitoring System**
 
 **README.md:**
 
