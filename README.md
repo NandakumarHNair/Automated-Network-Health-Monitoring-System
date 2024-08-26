@@ -1,8 +1,3 @@
-# **Automated Network Health Monitoring System**
-
-**README.md:**
-
-```markdown
 # Automated Network Health Monitoring System
 
 ## Project Overview
